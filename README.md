@@ -1,7 +1,7 @@
 # Homework 18: Blockchain
 ---
 
-## The Gluten Matrix
+## Zenith
 
 Welcome to Zenith, the ZBank blockchain test network built with the Clique proof-of-authority concensus protocol. Before running the nodes, be sure to follow the [blockchain installation guide](https://github.com/RutgersCodingBootcamp/RUT-VIRT-FIN-PT-05-2021-U-LOL/blob/master/Supplemental_Material/18-Blockchain/blockchain-install-guide.md). There you'll find instructions on how to install, Go Ethereum, which we'll use to run the blockchain nodes, and MyCrypto, where we'll access our digital wallets and make transactions.
 
